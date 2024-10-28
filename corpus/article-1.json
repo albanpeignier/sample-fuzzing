@@ -1,0 +1,7 @@
+{
+    "name": "Article Sample 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a purus lacus. Etiam vitae magna quam. Nulla sodales imperdiet volutpat. Nullam gravida augue faucibus, rutrum ligula ac, malesuada enim. Curabitur et convallis purus. Fusce semper iaculis tempor. Pellentesque sit amet ante ultricies, molestie tortor vel, condimentum elit. Nunc interdum metus id nunc consectetur, sed suscipit est mollis. Fusce mattis orci vel libero finibus, et fermentum purus fringilla. Donec sapien enim, euismod ac metus sed, aliquet facilisis quam. Sed hendrerit sem eu quam vulputate, sit amet auctor nunc pretium. Proin ac nisi vitae nibh tincidunt dignissim.",
+    "status": "active",
+    "price": 120,
+    "stock_quantity": 349
+}
